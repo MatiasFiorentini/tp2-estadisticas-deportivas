@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.log
+*.pyc
+.env
+token.txt
+*.tmp
