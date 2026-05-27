@@ -1,0 +1,11 @@
+===== RESUMEN DEL TORNEO =====
+
+Victorias por equipo:
+  River Plate: 5 victorias
+  Racing Club: 3 victorias
+  San Lorenzo: 2 victorias
+  Boca Juniors: 2 victorias
+
+Empates en el torneo: 3
+Total de goles: 41
+Promedio de goles por partido: 2.73
